@@ -29,7 +29,8 @@ I'm a huge bookworm 📚, and my bookshelf is filled with books that I absolutel
 <p>When it comes to sports, I'm a big fan of Juventus FC ⚽️🇮🇹. I love watching their games and following their progress. Fino alla fine 🤍🖤</p>
 <p>Overall, I'm a well-rounded individual with diverse interests, and I'm passionate about my personal pursuits 🤩.</p>
 
-###
+<br/>
+
 
 <h2 align="left">🛠 Language and tools</h1>
 
@@ -59,9 +60,22 @@ I'm a huge bookworm 📚, and my bookshelf is filled with books that I absolutel
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto: mani.saffarnia@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mani-saffarnia/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/5584742/mani-saffarnia" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  
+  <a href="https://join.skype.com/invite/mbfq1AJB0DHg">
+     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height="25" alt="stackoverflow logo"  />
+  </a>
+  
 </div>
 
 ###
