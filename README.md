@@ -7,7 +7,8 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=M.M&"  />
+  <img alt="page views" src="https://komarev.com/ghpvc/?username=ManiSaffarnia" style="max-width: 100%;">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ManiSaffarnia?color=green&amp;logo=github" style="max-width: 100%;">
 </div>
 
 ###
